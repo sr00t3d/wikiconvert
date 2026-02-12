@@ -2,6 +2,11 @@
 
 Readme: [English](README.md)
 
+<img src="https://github.com/user-attachments/assets/f3ba2f1b-75ea-4905-8935-2e9690822062" width="700">
+
+![License](https://img.shields.io/github/license/sr00t3d/bindfilter)
+![Python Script](https://img.shields.io/badge/python-script-green)
+
 **WikiConvert** é uma ferramenta robusta desenvolvida em Python para converter documentos **Microsoft Word (.docx, .doc)** para o formato **Markdown (.md)**. Ele é ideal para desenvolvedores e escritores técnicos que precisam migrar documentações offline para repositórios Git, blogs ou sistemas de documentação estática.
 
 ## ✨ Funcionalidades
