@@ -1,6 +1,6 @@
 # WikiConvert 📄➡️📝
 
-Readme: [English](README.md)
+Readme: [Português](README.pt-br.md)
 
 <img src="https://github.com/user-attachments/assets/f3ba2f1b-75ea-4905-8935-2e9690822062" width="700">
 
