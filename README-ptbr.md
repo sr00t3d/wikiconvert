@@ -44,14 +44,14 @@ Ao converter um arquivo, o script gera:
 - Um arquivo `.md` com o conteúdo processado.
 - Uma pasta `/images` contendo todas as figuras extraídas do documento original.
 
-## ⚠️ Disclaimer
+## ⚠️ Aviso Legal
 
 > [!WARNING]
-> Este software é fornecido "tal como está". Certifique-se sempre realizar testes em ambiente de desenvolvimento antes. O autor não se responsabiliza por qualquer uso indevido, consequências legais ou impacto nos dados causados ​​por esta ferramenta.
+> Este software é fornecido "como está". Certifique-se sempre de testar primeiro em um ambiente de desenvolvimento. O autor não se responsabiliza por qualquer uso indevido, consequências legais ou impacto em dados causado por esta ferramenta.
 
 ## 📚 Tutorial Detalhado
 
-Para um guia completo, passo a passo, sobre como converter os arquivos, confira meu artigo completo:
+Para um guia completo, passo a passo, confira meu artigo completo:
 
 👉 [**Converting DOC and DOCX to MarkDown**](https://perciocastelo.com.br/blog/converting-doc-and-docx-to-markdown.html)
 
