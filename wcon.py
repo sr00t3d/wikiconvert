@@ -1,17 +1,16 @@
 #!/usr/bin/env python3
-################################################################################
-#                                                                              #
-#   PROJECT: DOCX Content Extractor                                            #
-#   VERSION: 1.1.0                                                             #
-#                                                                              #
-#   AUTHOR:  Percio Andrade                                                    #
-#   CONTACT: percio@evolya.com.br | contato@perciocastelo.com.br               #
-#   WEB:     https://perciocastelo.com.br                                      #
-#                                                                              #
-#   INFO:                                                                      #
-#   Extract text and images from DOCX files, preserving order.                 #
-#                                                                              #
-################################################################################
+# ╔═══════════════════════════════════════════════════════════════════════════╗
+# ║                                                                           ║
+# ║   Wiki Convert v1.1.0                                                     ║
+# ║                                                                           ║
+# ╠═══════════════════════════════════════════════════════════════════════════╣
+# ║   Autor:   Percio Castelo                                                 ║
+# ║   Contato: percio@evolya.com.br | contato@perciocastelo.com.br            ║
+# ║   Web:     https://perciocastelo.com.br                                   ║
+# ║                                                                           ║
+# ║   Função:  Extract text and images from DOCX files, preserving order.     ║
+# ║                                                                           ║
+# ╚═══════════════════════════════════════════════════════════════════════════╝
 
 import os
 import sys
